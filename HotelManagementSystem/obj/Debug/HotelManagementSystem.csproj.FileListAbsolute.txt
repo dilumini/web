@@ -1,0 +1,13 @@
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Staff_Log_In.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Leaves.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Salary_Payments.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Staff_Welcome.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.Transport_details.resources
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\Chathurma Wijesinghe\source\repos\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
