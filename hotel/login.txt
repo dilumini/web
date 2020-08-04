@@ -1,0 +1,20 @@
+bookig details
+last name
+first name
+date of birth
+nationality
+arrival date flight nymber time
+departure date flightnumbr time
+
+
+guest details
+passport numbrt
+date of issue
+zipcode
+country
+telephone
+email
+fax
+
+room type
+single occupancy
